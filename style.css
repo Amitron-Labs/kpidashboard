@@ -74,6 +74,7 @@ body{
 	position: relative;
 	display: flex;
 	align-items: center;
+	background-color: red;
 }
 .top-bar .top-bar-left .logo img{
 	width: 120px;
